@@ -21,4 +21,4 @@ It shows the current time and date, updates every second, and comes with a **Lig
 
 ---
 
-## 📂 Project Made by Surajo9
+## 📂 Project Made by Suraj_o9
