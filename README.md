@@ -6,7 +6,7 @@ It shows the current time and date, updates every second, and comes with a **Lig
 ---
 
 ## 📌 Features
-- ⏳ **Live Clock** _ Updates every second with hours, minutes, and seconds.
+- ⏳ **Live Clock**  — Updates every second with hours, minutes, and seconds.
 - 📅 **Date Display** — Shows day, month, and year.
 - 🌗 **Light/Dark Mode Toggle** — Switch between themes with one click.
 - 📱 **Responsive Design** — Works on desktop, tablet, and mobile devices.
